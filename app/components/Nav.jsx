@@ -31,7 +31,7 @@ let Nav = React.createClass({
               <input type="search" placeholder="Search" />
             </li>
             <li>
-              <button type="button" className="button">Search</button>
+              <button type="submit" className="button">Search</button>
             </li>
           </ul>
         </form>
